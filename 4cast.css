@@ -17,6 +17,7 @@ h1.title {
     border-style:solid;
     padding: 0px 10px;
     color:whitesmoke;
+    display: flex;
 }
 
 .swirl-in-fwd {
